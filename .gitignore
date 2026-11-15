@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+.expo/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Generated files
+dist/
+build/
+*.log
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# ML artifacts
+*.pt
+*.pth
+*.ckpt
