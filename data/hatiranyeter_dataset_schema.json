@@ -1,0 +1,23 @@
+{
+  "project": "HatiranYeter",
+  "version": "0.1",
+  "task": "multi_label_turkish_memory_classification",
+  "labels": ["FAMILY", "CAREER", "HOBBY", "TRAVEL", "FOOD", "OTHER"],
+  "rules": [
+    "A memory may have multiple labels.",
+    "OTHER is used only when none of the other five labels applies.",
+    "Never infer facts beyond the note.",
+    "Only approved, non-sensitive notes are eligible for conversation-card generation.",
+    "All generated examples must be explicitly synthetic."
+  ],
+  "record_example": {
+    "memory_id": "M001",
+    "profile_id": "P001",
+    "memory_text": "Babam her yaz ailesiyle Ayvalık'a gider, orada balık tutmayı çok severdi.",
+    "labels": ["FAMILY", "TRAVEL", "HOBBY"],
+    "approval_status": "approved",
+    "sensitive": false,
+    "source_id": "synthetic_001",
+    "is_synthetic": true
+  }
+}

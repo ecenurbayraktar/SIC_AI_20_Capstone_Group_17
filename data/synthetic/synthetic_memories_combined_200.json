@@ -1,0 +1,2491 @@
+{
+  "memories": [
+    {
+      "memory_id": "M001",
+      "profile_id": "P001",
+      "memory_text": "Emekli olmadan önce Ankara'daki ilkokulda otuz yıl öğretmenlik yaptım, bazen kızım Zeynep de teneffüslerde sınıfa gelip bana yardım ederdi.",
+      "labels": [
+        "CAREER",
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_001",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M002",
+      "profile_id": "P001",
+      "memory_text": "Arka bahçedeki küçük serada domates ve biber yetiştirmeyi çok severdim, topladığım taze sebzelerle akşamları fırında börek yapardım.",
+      "labels": [
+        "HOBBY",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_002",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M003",
+      "profile_id": "P001",
+      "memory_text": "Torunum Efe okuldan mezun olduğunda hep birlikte trenle Kapadokya'ya gidip balonların gökyüzüne yükselişini keyifle izlemiştik.",
+      "labels": [
+        "FAMILY",
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_003",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M004",
+      "profile_id": "P001",
+      "memory_text": "Kış sabahları pencerenin önünde oturup yağan ilk karın sokak lambalarının altında parlamasını izlemek bana her zaman huzur verirdi.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_004",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M005",
+      "profile_id": "P001",
+      "memory_text": "Öğretmenler Günü'nde eski öğrencilerimin kapımı çalıp ellerinde çiçeklerle ziyarete gelmesi meslek hayatımın en güzel anısıydı.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_005",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M006",
+      "profile_id": "P002",
+      "memory_text": "Trabzon'daki marangoz atölyemde ceviz ağacından sandalyeler oymakla geçirdiğim günlerde talaş kokusu tüm sokağa yayılırdı.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_006",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M007",
+      "profile_id": "P002",
+      "memory_text": "Akşamları işten dönünce kemençemi elime alır, eşim ve çocuklarımla birlikte eski Karadeniz türkülerini söyleyerek neşelenirdik.",
+      "labels": [
+        "HOBBY",
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_007",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M008",
+      "profile_id": "P002",
+      "memory_text": "Annemin taş fırında pişirdiği sıcak mısır ekmeğinin yanında taze kızartılmış hamsi yediğimiz akşamların tadı hala damağımda.",
+      "labels": [
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_008",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M009",
+      "profile_id": "P002",
+      "memory_text": "Gençliğimde arkadaşlarımla Rize yaylalarına yürüyüşe çıkar, sisli tepelerde fotoğraf çekip serin dere kenarlarında dinlenirdik.",
+      "labels": [
+        "TRAVEL",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_009",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M010",
+      "profile_id": "P002",
+      "memory_text": "Hafta sonları sabah erkenden iskeleye inip oltamı denize atmak, dalga sesleri arasında balık beklemek en büyük tutkumdu.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_010",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M011",
+      "profile_id": "P003",
+      "memory_text": "İzmir'in ara sokaklarındaki küçük terzi dükkanımda komşularımıza bayramlık elbiseler dikerken dikiş makinesinin sesi hiç susmazdı.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_011",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M012",
+      "profile_id": "P003",
+      "memory_text": "Pazar sabahları bütün aile balkondaki geniş masada toplanır, zeytinyağlı enginar ve sıcak boyoz eşliğinde uzun sohbetler ederdik.",
+      "labels": [
+        "FAMILY",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_012",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M013",
+      "profile_id": "P003",
+      "memory_text": "Yaz tatillerinde kız kardeşlerimle Çeşme'ye gider, öğleden sonraları sahilde yürüyüş yapıp dondurma yerdik.",
+      "labels": [
+        "TRAVEL",
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_013",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M014",
+      "profile_id": "P003",
+      "memory_text": "Kış akşamları televizyon karşısında renkli yün iplerle torunlarıma yumuşacık atkılar ve kazaklar örmek beni çok dinlendirirdi.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_014",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M015",
+      "profile_id": "P003",
+      "memory_text": "Bahçeden topladığımız taze otlarla hazırladığım zeytinyağlı yemekler misafirlerim tarafından her zaman çok beğenilirdi.",
+      "labels": [
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_015",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M016",
+      "profile_id": "P004",
+      "memory_text": "Genç bir inşaat mühendisi olarak Eskişehir'deki yeni köprü projesinin çizimlerini tamamladığımız gün ekipçe çok gururlanmıştık.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_016",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M017",
+      "profile_id": "P004",
+      "memory_text": "Yıllarca dünyanın farklı ülkelerinden gelen eski posta pullarını biriktirip büyük mavi defterime özenle yapıştırdım.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_017",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M018",
+      "profile_id": "P004",
+      "memory_text": "İkiz oğullarım büyüdüğünde hafta sonları onlarla salonda satranç turnuvaları düzenler, kazananı alkışlardık.",
+      "labels": [
+        "FAMILY",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_018",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M019",
+      "profile_id": "P004",
+      "memory_text": "Ankara'dan Eskişehir'e yaptığım ilk hızlı tren yolculuğunda pencereden akıp giden bozkır manzarasını hayranlıkla izlemiştim.",
+      "labels": [
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_019",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M020",
+      "profile_id": "P004",
+      "memory_text": "Soğuk kış günlerinde eşimin yaptığı sıcak mercimek çorbasını içerken çocuklarımın okul hikayelerini dinlemek çok güzeldi.",
+      "labels": [
+        "FOOD",
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_020",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M021",
+      "profile_id": "P005",
+      "memory_text": "Bursa'daki devlet hastanesinde hemşire olarak çalıştığım yıllarda yeni doğan bebekleri ilk kez kucağıma almak bana büyük mutluluk verirdi.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_021",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M022",
+      "profile_id": "P005",
+      "memory_text": "Emekli olduktan sonra belediyenin Türk sanat müziği korosuna katılıp her salı akşamı arkadaşlarımla şarkılar söyledim.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_022",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M023",
+      "profile_id": "P005",
+      "memory_text": "Yaz aylarında pazardan aldığım çilek ve vişnelerle kavanoz kavanoz reçel kaynatmak benim için keyifli bir uğraştı.",
+      "labels": [
+        "FOOD",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_023",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M024",
+      "profile_id": "P005",
+      "memory_text": "Ablamla birlikte Uludağ'ın eteklerindeki piknik alanlarına gidip çam ağaçlarının gölgesinde çay demlerdik.",
+      "labels": [
+        "TRAVEL",
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_024",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M025",
+      "profile_id": "P005",
+      "memory_text": "Bahar geldiğinde mahallemizdeki ıhlamur ağaçlarının çiçek açması ve sokağa yayılan tatlı kokusu içimi neşeyle doldururdu.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_025",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M026",
+      "profile_id": "P006",
+      "memory_text": "Gaziantep'te işlettiğim bakkal dükkanında mahallenin çocuklarına şeker tartmak ve komşularla hal hatır sormak günlük rutinimdi.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_026",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M027",
+      "profile_id": "P006",
+      "memory_text": "Bayram sabahları evin ortasındaki büyük tepside ailemle fıstıklı baklava dilimlerini paylaşmak vazgeçilmez geleneğimizdi.",
+      "labels": [
+        "FOOD",
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_027",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M028",
+      "profile_id": "P006",
+      "memory_text": "Yeğenimin düğününde tüm akrabalar halay çekerken ben de davul zurna eşliğinde onlara katılıp doyasıya eğlenmiştim.",
+      "labels": [
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_028",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M029",
+      "profile_id": "P006",
+      "memory_text": "Yaz sıcağından bunaldığımızda Mersin sahiline tatile gider, akşamları deniz kenarında taze ızgara balık ve salata yerdik.",
+      "labels": [
+        "TRAVEL",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_029",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M030",
+      "profile_id": "P006",
+      "memory_text": "Öğle molalarında dükkanın önündeki gölgelikte komşum Hasan Bey ile tavla oynayıp çay içmek en sevdiğim dinlenme anıydı.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_030",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M031",
+      "profile_id": "P007",
+      "memory_text": "Lisede müzik öğretmenliği yaptığım yıllarda okul korosunu çalıştırırken öğrencilerimin enstrüman çalmayı öğrenmesi beni çok sevindirirdi.",
+      "labels": [
+        "CAREER",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_031",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M032",
+      "profile_id": "P007",
+      "memory_text": "Eşim Kemal ile hafta sonları Kadıköy vapuruna binip Boğaz havası eşliğinde karşı yakaya geçmeyi çok severdik.",
+      "labels": [
+        "TRAVEL",
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_032",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M033",
+      "profile_id": "P007",
+      "memory_text": "Pazar sabahları Kemal fırından çıtır simit alır, ben de köpüklü Türk kahvesi yapıp balkonda birlikte içerdik.",
+      "labels": [
+        "FOOD",
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_033",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M034",
+      "profile_id": "P007",
+      "memory_text": "Evin sessizleştiği akşam saatlerinde udumu kucağıma alıp eski İstanbul şarkılarını çalmak ruhumu dinlendirirdi.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_034",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M035",
+      "profile_id": "P007",
+      "memory_text": "Bahar aylarında Emirgan Korusu'na gidip rengarenk lalelerin arasında yürüyüş yapmak ve fotoğraf çekmek bana her zaman iyi gelirdi.",
+      "labels": [
+        "TRAVEL",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_035",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M036",
+      "profile_id": "P008",
+      "memory_text": "Ziraat mühendisi olarak Konya ovasındaki buğday tarlalarını incelediğim bahar günlerinde toprağın bereketine hayran kalırdım.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_036",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M037",
+      "profile_id": "P008",
+      "memory_text": "Eski fotoğraf makinemi sırt çantama koyup bisikletle civar köylere gider, tarihi taş evlerin fotoğraflarını çekerdim.",
+      "labels": [
+        "HOBBY",
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_037",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M038",
+      "profile_id": "P008",
+      "memory_text": "Misafirlerimiz geldiğinde şehrin en eski fırınından incecik hamurlu sıcak etli ekmek yaptırıp ayranla ikram ederdik.",
+      "labels": [
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_038",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M039",
+      "profile_id": "P008",
+      "memory_text": "Yeğenlerim yaz tatilinde ziyaretime gelince onları arabayla Ihlara Vadisi'ne götürüp doğa yürüyüşü yaptırmıştım.",
+      "labels": [
+        "FAMILY",
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_039",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M040",
+      "profile_id": "P008",
+      "memory_text": "Sabahları güneş doğmadan bisikletime atlayıp parkın etrafında üç tur atmak gün boyu zinde kalmamı sağlardı.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_040",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M041",
+      "profile_id": "P009",
+      "memory_text": "Antalya şehir kütüphanesinde çalıştığım yıllarda rafları düzenlemek ve okurlara yeni romanlar önermek en sevdiğim işti.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_041",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M042",
+      "profile_id": "P009",
+      "memory_text": "Emeklilik günlerimde deniz manzaralı suluboya resimler yapıp çerçeveleterek oturma odamın duvarlarını süsledim.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_042",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M043",
+      "profile_id": "P009",
+      "memory_text": "Yazın arkadaşlarımla Kekova'da tekne turuna çıkıp turkuaz renkli koylarda yüzmenin tadını çıkarmıştık.",
+      "labels": [
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_043",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M044",
+      "profile_id": "P009",
+      "memory_text": "Bahçemizdeki turunç ağaçlarından topladığım meyvelerle yaptığım turunç reçelini komşularıma ikram etmeyi çok severdim.",
+      "labels": [
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_044",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M045",
+      "profile_id": "P009",
+      "memory_text": "Yağmurdan sonra topraktan yükselen o temiz koku eşliğinde açık pencerenin yanında oturmak çok hoşuma giderdi.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_045",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M046",
+      "profile_id": "P010",
+      "memory_text": "Edirne çarşısındaki saatçi dükkanımda antika cep saatlerini tamir etmek hem mesleğim hem de en büyük merakımdı.",
+      "labels": [
+        "CAREER",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_046",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M047",
+      "profile_id": "P010",
+      "memory_text": "Torunlarım bayramda ziyarete geldiğinde hep birlikte Tunca kıyısındaki lokantaya gidip meşhur tava ciğer ve yoğurt yerdik.",
+      "labels": [
+        "FOOD",
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_047",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M048",
+      "profile_id": "P010",
+      "memory_text": "Emekli olduktan sonra eşimle Trakya'nın şirin köylerini gezerek ayçiçeği tarlalarının arasında uzun yolculuklar yaptık.",
+      "labels": [
+        "TRAVEL",
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_048",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M049",
+      "profile_id": "P010",
+      "memory_text": "Akşamları radyodan klasik Türk müziği dinlerken torunuma eski köstekli saatlerin nasıl çalıştığını anlatırdım.",
+      "labels": [
+        "FAMILY",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_049",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M050",
+      "profile_id": "P010",
+      "memory_text": "Mesleğe çırak olarak başladığım ilk gün ustamın bana hediye ettiği küçük tornavida setini yıllarca özenle sakladım.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_050",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M051",
+      "profile_id": "P001",
+      "memory_text": "Okulun bahar şenliğinde öğrencilerimle hazırladığımız küçük tiyatro gösterisini izleyen aileler uzun süre alkışlamıştı.",
+      "labels": [
+        "CAREER",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_051",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M052",
+      "profile_id": "P001",
+      "memory_text": "Kızımla pazar günleri mutfağa girer, anneannemin tarifindeki cevizli çörekleri birlikte yapardık.",
+      "labels": [
+        "FAMILY",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_052",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M053",
+      "profile_id": "P001",
+      "memory_text": "Emekli olduktan sonra arkadaşlarımla Ege kıyılarındaki antik kentleri gezip gördüğümüz yapıları defterime çizerdim.",
+      "labels": [
+        "TRAVEL",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_053",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M054",
+      "profile_id": "P001",
+      "memory_text": "Akşam yemeğinden sonra torunum bana okuduğu kitapların kahramanlarını anlatır, ben de ona çocukluğumu anlatırdım.",
+      "labels": [
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_054",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M055",
+      "profile_id": "P001",
+      "memory_text": "Sokakta ilkbaharın kokusunu aldığım bir sabah eski ahşap kapının gıcırtısını duyup uzun süre orada durmuştum.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_055",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M056",
+      "profile_id": "P002",
+      "memory_text": "Atölyede yetiştirdiğim çırağın ilk yaptığı kitaplığı görünce gururlanmış, ona kendi kullandığım ölçü cetvelini hediye etmiştim.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_056",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M057",
+      "profile_id": "P002",
+      "memory_text": "Yazın ailece Uzungöl'e gittiğimizde sabah yürüyüşlerine çıkar, gölün üzerindeki sisi fotoğraflardık.",
+      "labels": [
+        "TRAVEL",
+        "FAMILY",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_057",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M058",
+      "profile_id": "P002",
+      "memory_text": "Pazar öğleden sonraları oğlumla satranç oynar, her hamleden sonra uzun uzun düşünürdük.",
+      "labels": [
+        "FAMILY",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_058",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M059",
+      "profile_id": "P002",
+      "memory_text": "Komşumuzun öğrettiği kuymak tarifini ilk denediğimde peyniri fazla koymuş, yine de herkesten övgü almıştım.",
+      "labels": [
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_059",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M060",
+      "profile_id": "P002",
+      "memory_text": "Bir sonbahar akşamı yağmur damlaları çatının saçaklarına vururken odadaki saatin tik taklarını dinlemiştim.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_060",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M061",
+      "profile_id": "P003",
+      "memory_text": "Terzi dükkânındaki son iş günümde çalışma arkadaşlarım bana küçük bir dikiş kutusu armağan etmişlerdi.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_061",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M062",
+      "profile_id": "P003",
+      "memory_text": "Kardeşimle birlikte bayram öncesi baklava açar, yufkaların inceliğini ışığa tutarak kontrol ederdik.",
+      "labels": [
+        "FAMILY",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_062",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M063",
+      "profile_id": "P003",
+      "memory_text": "Gençken vapurla İstanbul'a gidip Boğaz kıyısındaki sokaklarda saatlerce yürüdüğümüz bir geziyi hiç unutamam.",
+      "labels": [
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_063",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M064",
+      "profile_id": "P003",
+      "memory_text": "Boş vakitlerimde renkli kumaş parçalarından yastık kılıfları diker, desenleri kendi zevkime göre birleştirirdim.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_064",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M065",
+      "profile_id": "P003",
+      "memory_text": "Yeğenimin mezuniyetinde bütün aile bahçede toplanmış, birlikte çekildiğimiz fotoğrafı yıllarca saklamıştık.",
+      "labels": [
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_065",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M066",
+      "profile_id": "P201",
+      "memory_text": "İlk görev yaptığım hastanenin koridorlarını hatırlıyorum; ekipçe tamamladığımız yoğun bir günün sonunda birlikte çay içmiştik.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_066",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M067",
+      "profile_id": "P004",
+      "memory_text": "Eşimle Antalya'ya yaptığımız yolculukta deniz kıyısındaki küçük müzeyi gezip eski fotoğraflara bakmıştık.",
+      "labels": [
+        "TRAVEL",
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_067",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M068",
+      "profile_id": "P004",
+      "memory_text": "Babamın öğrettiği mercimek çorbasını pişirirken üzerine nane ve tereyağı eklemeyi hiç unutmazdım.",
+      "labels": [
+        "FOOD",
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_068",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M069",
+      "profile_id": "P004",
+      "memory_text": "Her akşam yatmadan önce birkaç sayfa roman okur, sevdiğim cümleleri küçük bir deftere not ederdim.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_069",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M070",
+      "profile_id": "P004",
+      "memory_text": "Kışın ilk kar yağdığı gün balkon demirlerinde biriken beyazlığı izlemek bana tarifsiz bir sakinlik verirdi.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_070",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M071",
+      "profile_id": "P202",
+      "memory_text": "Bankadaki ilk terfim açıklandığında mesai arkadaşlarım masama renkli bir tebrik kartı bırakmıştı.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_071",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M072",
+      "profile_id": "P005",
+      "memory_text": "Çocuklar küçükken yaz tatilinde Ayvalık'a gider, sabahları kıyı boyunca bisiklet sürerdik.",
+      "labels": [
+        "TRAVEL",
+        "FAMILY",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_072",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M073",
+      "profile_id": "P005",
+      "memory_text": "Annemle hazırladığımız reçelleri küçük kavanozlara doldurur, üzerlerine tarih yazıp kiler rafına dizerdik.",
+      "labels": [
+        "FAMILY",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_073",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M074",
+      "profile_id": "P005",
+      "memory_text": "Hafta sonları mahalle korosuna katılır, eski şarkıları arkadaşlarımla birlikte seslendirmekten keyif alırdım.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_074",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M075",
+      "profile_id": "P005",
+      "memory_text": "Büyükannemin doğum gününde bütün kuzenler sırayla ona en sevdiğimiz çocukluk anısını anlatmıştık.",
+      "labels": [
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_075",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M076",
+      "profile_id": "P203",
+      "memory_text": "Kütüphanede çalışırken kayıp sanılan eski bir kitabı arşivde bulmam meslek hayatımın unutulmaz günlerindendi.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_076",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M077",
+      "profile_id": "P006",
+      "memory_text": "Üniversiteden arkadaşlarımla Eskişehir'e gidip müzeleri gezmiş, akşam dönüş treninde gördüklerimizi konuşmuştuk.",
+      "labels": [
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_077",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M078",
+      "profile_id": "P006",
+      "memory_text": "Torunuma örgü örmeyi öğretirken önce ilmekleri birlikte sayar, bitirdiğimiz atkıyı gururla denerdik.",
+      "labels": [
+        "FAMILY",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_078",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M079",
+      "profile_id": "P006",
+      "memory_text": "Fırından yeni çıkan tarçınlı elmalı kurabiyelerin kokusu evi sarınca herkes mutfak kapısında toplanırdı.",
+      "labels": [
+        "FOOD",
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_079",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M080",
+      "profile_id": "P006",
+      "memory_text": "Sabah erkenden uyandığımda pencereden giren yumuşak ışığın duvarda oluşturduğu şekillere uzun uzun bakardım.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_080",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M081",
+      "profile_id": "P204",
+      "memory_text": "Küçük fırınımızın açılış gününde ilk ekmekleri çıkarırken yanımda çalışan herkes heyecanla fırının önünde beklemişti.",
+      "labels": [
+        "CAREER",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_081",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M082",
+      "profile_id": "P007",
+      "memory_text": "Eşimle Safranbolu sokaklarında yürürken eski evlerin kapı tokmaklarını inceleyip fotoğraflar çekmiştik.",
+      "labels": [
+        "TRAVEL",
+        "FAMILY",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_082",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M083",
+      "profile_id": "P007",
+      "memory_text": "Çocuklarımla bayram sabahı kahvaltı masasını hazırlarken en küçük oğlum tabakların yanına çiçek koyardı.",
+      "labels": [
+        "FAMILY",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_083",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M084",
+      "profile_id": "P007",
+      "memory_text": "Arkadaşlarımla haftada bir buluşup tavla oynar, biten oyunların ardından uzun sohbetler ederdik.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_084",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M085",
+      "profile_id": "P007",
+      "memory_text": "Çarşıdaki eski saat kulesinin öğlen çaldığı sesi yıllar geçse de zihnimde canlandırabilirim.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_085",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M086",
+      "profile_id": "P205",
+      "memory_text": "Yıllarca tren istasyonunda çalıştım; ilk kez görevli olarak karşıladığım uzun mesafe trenini hâlâ hatırlarım.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_086",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M087",
+      "profile_id": "P008",
+      "memory_text": "Kız kardeşimle birlikte Konya'ya gittiğimizde Mevlana Müzesi'ni gezip avluda fotoğraf çektirmiştik.",
+      "labels": [
+        "TRAVEL",
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_087",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M088",
+      "profile_id": "P008",
+      "memory_text": "Dedemin tarifine göre hazırladığımız ev eriştesini kurutmak için temiz örtülerin üzerine tek tek sererdik.",
+      "labels": [
+        "FOOD",
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_088",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M089",
+      "profile_id": "P008",
+      "memory_text": "Emeklilikten sonra her sabah parkta yürüyüş yapar, aynı bankta oturan arkadaşlarımla selamlaşırdım.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_089",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M090",
+      "profile_id": "P008",
+      "memory_text": "Ailemle eski fotoğraf kutusunu açtığımız akşam her resmin arkasındaki hikâyeyi sırayla anlatmıştık.",
+      "labels": [
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_090",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M091",
+      "profile_id": "P206",
+      "memory_text": "Üniversitedeki laboratuvarda öğrencilerime mikroskop kullanmayı öğrettiğim ilk ders çok heyecan vericiydi.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_091",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M092",
+      "profile_id": "P009",
+      "memory_text": "Kardeşimle Karadeniz turuna çıktığımızda yol kenarındaki yaylalarda durup manzara resimleri çizmiştik.",
+      "labels": [
+        "TRAVEL",
+        "FAMILY",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_092",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M093",
+      "profile_id": "P009",
+      "memory_text": "Çocukluğumda annemle pazardan aldığımız vişnelerle şurup hazırlar, cam şişeleri serin dolapta saklardık.",
+      "labels": [
+        "FAMILY",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_093",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M094",
+      "profile_id": "P009",
+      "memory_text": "Her perşembe arkadaşlarımla buluşup suluboya çalışır, aynı çiçeği farklı renklerle resmetmeye uğraşırdık.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_094",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M095",
+      "profile_id": "P009",
+      "memory_text": "Eski evimizin koridorundaki duvar saatinin her saat başında çıkardığı ses aklımda yer etmişti.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_095",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M096",
+      "profile_id": "P207",
+      "memory_text": "Belediyede düzenlediğimiz ilk çocuk şenliğinin sonunda bütün ekip sahnedeki renkli süslerin önünde fotoğraf çekilmiştik.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_096",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M097",
+      "profile_id": "P010",
+      "memory_text": "Eşimle gençliğimizde Bursa'ya yaptığımız kısa gezide tarihi çarşıyı dolaşıp küçük bir hatıra defteri almıştık.",
+      "labels": [
+        "TRAVEL",
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_097",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M098",
+      "profile_id": "P010",
+      "memory_text": "Torunlarımla birlikte domatesli makarna hazırlarken herkes kendi tabağına farklı bir peynir eklemeyi severdi.",
+      "labels": [
+        "FAMILY",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_098",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M099",
+      "profile_id": "P010",
+      "memory_text": "Bahçemde yetiştirdiğim güllerin bakımını yaparken yeni açan tomurcukları küçük defterime tarihlerle kaydederdim.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_099",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M100",
+      "profile_id": "P010",
+      "memory_text": "Aile toplantısında ablam eski bir fotoğrafı gösterince hepimiz çocukluk oyunlarımızı gülerek hatırlamıştık.",
+      "labels": [
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_100",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m001",
+      "profile_id": "hy_8f2c9a71_p001",
+      "memory_text": "Ankara'daki evimizin sobası bir türlü çekmezdi. Babam boruları sökerken biz üç kardeş gazeteleri sererdik. İş bitince annem hepimize elma soyar, en uzun kabuğu kimin çıkardığını ölçerdik.",
+      "labels": [
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s001",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m002",
+      "profile_id": "hy_8f2c9a71_p002",
+      "memory_text": "Altmışlı yıllarda Bursa'da dokuma tezgâhının başına ilk geçtiğimde mekikten ürkmüştüm. Ustam makineyi durdurup ipliğin yolunu avucuma çizdi. O çizgiyi yıllarca unutmadım.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s002",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m003",
+      "profile_id": "hy_8f2c9a71_p003",
+      "memory_text": "İzmir'de emekli olduktan sonra balkonumda karanfil yetiştirmeye başladım. İlk çiçeği koparmaya kıyamadım; sandalye çekip karşısında kahvemi içtim. Komşular beni çiçeğin nöbetçisi sanırdı.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s003",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m004",
+      "profile_id": "hy_8f2c9a71_p004",
+      "memory_text": "Kapadokya'ya ilk gezimde fotoğraf makinesine film takmayı unutmuşum. Bütün gün boşuna poz vermişiz. Eve dönünce gördüğümüz kayaları defterime çizerek anlatabildim.",
+      "labels": [
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s004",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m005",
+      "profile_id": "hy_8f2c9a71_p005",
+      "memory_text": "Gaziantep'teki öğrencilik günlerimde ilk kez yuvalama yaptım. Taneleri iri tutmuşum. Ev arkadaşım kaşığı kaldırıp bunların tek başına doyuracağını söyleyince ikimiz de gülmekten sofrayı kuramadık.",
+      "labels": [
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s005",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m006",
+      "profile_id": "hy_8f2c9a71_p006",
+      "memory_text": "Eskişehir'de mahallemize ilk trafik lambası konduğunda herkes kaldırımda durmuş onu seyretmişti. Yol bomboştu ama yeşil yanmadan karşıya geçmeye kimsenin gönlü elvermedi.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s006",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m007",
+      "profile_id": "hy_8f2c9a71_p007",
+      "memory_text": "Kars'ta kış akşamları babaannemle erişte keserdik. Benim kestiklerim eğri olurdu. Babaannem onları ayrı kurutur, ertesi gün özellikle benim eriştelerimden çorba isterdi.",
+      "labels": [
+        "FAMILY",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s007",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m008",
+      "profile_id": "hy_8f2c9a71_p008",
+      "memory_text": "Mersin'de terzi çırağıydım. Bir müşterinin ceket ceplerini geçici dikişle kapattığımı unutmuşum. Adam ellerini nereye koyacağını sorunca ustam gözlüğünün üzerinden bana baktı.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s008",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m009",
+      "profile_id": "hy_8f2c9a71_p009",
+      "memory_text": "Yetmişlerde Samsun'dan aldığım küçük radyoyu kendim onarmaya uğraşırdım. Bir akşam cızırtının içinden müzik gelince sevinçle ayağa kalktım, masadaki bütün vidalar yere saçıldı.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s009",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m010",
+      "profile_id": "hy_8f2c9a71_p010",
+      "memory_text": "Eşimle Sinop'a giderken yanlış durakta indik. Bir çay bahçesinde otobüsün dönüşünü bekledik. Sonradan gezinin en çok o beklenmedik, sessiz öğleden sonrasını konuştuk.",
+      "labels": [
+        "FAMILY",
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s010",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m011",
+      "profile_id": "hy_8f2c9a71_p011",
+      "memory_text": "Antakya'da bakır tepside künefe çeviren ustayı ilk görüşümü hatırlarım. Ben tepsi düşecek diye geri çekilmiştim. O, işine devam ederek bana boş bir tabak uzatmıştı.",
+      "labels": [
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s011",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m012",
+      "profile_id": "hy_8f2c9a71_p012",
+      "memory_text": "Konya'da apartmanımıza asansör yapıldığında üst kattaki komşuyla sırf denemek için bindik. İkimiz de düğmeye basmayı ötekinden bekleyince kapısı kapalı kabinde epeyce dikildik.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s012",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m013",
+      "profile_id": "hy_8f2c9a71_p013",
+      "memory_text": "Tek çocuk büyüdüm ama yazın Edirne'deki teyzemin evine gidince altı kişilik bir kardeş takımına katılırdım. Yatakları kura çekerek seçer, sabah hep başka yerde uyanırdık.",
+      "labels": [
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s013",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m014",
+      "profile_id": "hy_8f2c9a71_p014",
+      "memory_text": "Zonguldak'ta kütüphaneci olduğum yıllarda bir okur her kitabın arasına kurutulmuş yaprak bırakırdı. İade masasının çekmecesinde küçük bir sonbahar birikti. Sonunda yapraklarını kendisine bir zarfla verdim.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s014",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m015",
+      "profile_id": "hy_8f2c9a71_p015",
+      "memory_text": "Muğla'da arkadaşlarla amatör tiyatro yapardık. Bir oyunda kapıyı çalacak oyuncu gelmeyince kapıyı içeriden kendim çaldım. Seyirciler bunun oyunun şakası olduğunu sandı.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s015",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m016",
+      "profile_id": "hy_8f2c9a71_p016",
+      "memory_text": "Van Gölü'nü ilk gördüğümde otobüsteki yol arkadaşım deniz olmadığını tekrar tekrar söyledi. Kıyıya inince ayakkabılarımı çıkardım. Yolun bütün yorgunluğu serin taşların üstünde kaldı.",
+      "labels": [
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s016",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m017",
+      "profile_id": "hy_8f2c9a71_p017",
+      "memory_text": "Aydın'da incir kuruturken üstlerine örttüğüm tülü rüzgâr uçurmuştu. Peşinden koşarken terliğim çıktı. İncirleri kurtardım ama komşular o yaz bana hep tülü sordular.",
+      "labels": [
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s017",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m018",
+      "profile_id": "hy_8f2c9a71_p018",
+      "memory_text": "Çocukken Sivas'taki açık hava sinemasında perdeye bir güve konmuştu. Kocaman gölgesini filmdeki bir yaratık sanıp yanımdaki sandalyeye sokuldum. Makinist ışığı yakınca herkes rahatladı.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s018",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m019",
+      "profile_id": "hy_8f2c9a71_p019",
+      "memory_text": "Kızımla Trabzon'da uçurtma yaptığımız gün rüzgâr yoktu. Akşama kadar sırayla koştuk. Eve dönerken kızım uçurtmanın yorulduğunu söyleyip onu kucağında taşımıştı.",
+      "labels": [
+        "FAMILY",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s019",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m020",
+      "profile_id": "hy_8f2c9a71_p020",
+      "memory_text": "Kayseri'de marangozken yaptığım ilk taburenin bir ayağı kısa kalmıştı. Ustam düzeltmeme yardım etti. Yıllar sonra dükkânı devrederken o tabureyi yanıma aldım.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s020",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m021",
+      "profile_id": "hy_8f2c9a71_p021",
+      "memory_text": "Diyarbakır'daki evimde pul biriktirirdim. Aradığım vapurlu pulu bir arkadaşım eski bir zarfla getirdi. Zarfı yırtmaya kıyamayınca albümde ona kocaman bir sayfa ayırdım.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s021",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m022",
+      "profile_id": "hy_8f2c9a71_p022",
+      "memory_text": "Çanakkale gezisinde feribotun güvertesinde çay içmek istedim. Rüzgâr şekeri daha bardağa atamadan uçurdu. Çayımı ilk kez şekersiz içtim; manzaraya dalınca eksikliğini fark etmedim.",
+      "labels": [
+        "TRAVEL",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s022",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m023",
+      "profile_id": "hy_8f2c9a71_p023",
+      "memory_text": "Rize'de çalıştığım küçük lokantada ilk hamsili pilavımı tepsiden çıkarırken dağıttım. Aşçıbaşı servis kaşığını elime verip önce tadına bakmamı istedi. Tadı yerindeydi, görünüşünü sonra öğrendim.",
+      "labels": [
+        "CAREER",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s023",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m024",
+      "profile_id": "hy_8f2c9a71_p024",
+      "memory_text": "Denizli'de ilk otomatik kapıyla karşılaşınca önümde biri açıyor sandım. Teşekkür etmek için sağa sola baktım. Arkamdaki çocuk nasıl çalıştığını gösterene kadar kapının önünden çekilemedim.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s024",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m025",
+      "profile_id": "hy_8f2c9a71_p025",
+      "memory_text": "Balıkesir'deki evimizde dedemle aynı odayı paylaşırdım. Saatinin tik takı başta uyutmazdı. Bir gece saat durunca bu kez sessizlikten uyuyamadık, birlikte kurduk.",
+      "labels": [
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s025",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m026",
+      "profile_id": "hy_8f2c9a71_p026",
+      "memory_text": "Seksenlerde Malatya'da santral görevlisiydim. İlk iş günümde kabloları birbirine doladım. Yan masadaki arkadaşım öğle arasında tahta bir kutudan düzenleyici yaptı; yıllarca kullandım.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s026",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m027",
+      "profile_id": "hy_8f2c9a71_p027",
+      "memory_text": "Isparta'da katıldığım resim kursunda herkes göl manzarası çiziyordu. Ben önümüzdeki çatlak sürahiyi seçtim. Öğretmen gölgesini gösterince ilk kez bir eşyaya uzun uzun baktım.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s027",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m028",
+      "profile_id": "hy_8f2c9a71_p028",
+      "memory_text": "Artvin'e giderken virajları saymaya başladım, yüzü geçince bıraktım. Molada şoför bana dağların arasındaki eski yolu gösterdi. Kalan yol boyunca saymak yerine camdan baktım.",
+      "labels": [
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s028",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m029",
+      "profile_id": "hy_8f2c9a71_p029",
+      "memory_text": "Tokat'ta komşularla salça kaynattığımız bir gün kazanı karıştırma sırası bana geldi. Önlüğüm tertemiz kalsın diye uğraşırken burnuma kırmızı bir benek sıçramış; akşama kadar öyle dolaşmışım.",
+      "labels": [
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s029",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m030",
+      "profile_id": "hy_8f2c9a71_p030",
+      "memory_text": "Adana'da bir yaz akşamı elektrikler kesilince apartmanca avluya çıktık. Kimse yukarı dönmek istemedi. Işıklar geldiğinde sohbet sürsün diye avlunun lambasını kapattık.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s030",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m031",
+      "profile_id": "hy_8f2c9a71_p031",
+      "memory_text": "Erzurum'da ablam evlenip başka mahalleye taşınınca her pazar ona mektup götürürdüm. İçine evde olanları yazardım. Ablam okurken ben karşısında oturur, unuttuğum ayrıntıları eklerdim.",
+      "labels": [
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s031",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m032",
+      "profile_id": "hy_8f2c9a71_p032",
+      "memory_text": "Çorum'da köy öğretmeniyken sınıfa kendi yaptığım kuklayı götürdüm. Ağzını oynatan ip koptu. Çocuklardan biri kuklanın o gün dinlemek istediğini söyleyince dersi onların anlattıklarıyla sürdürdük.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s032",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m033",
+      "profile_id": "hy_8f2c9a71_p033",
+      "memory_text": "Kırklareli'nde gençken arkadaşlarımla bisikletlere zil takıp seslerini karşılaştırırdık. Benimki pek cılızdı. İçini temizleyince öyle gür çaldı ki hepimiz aynı anda irkildik.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s033",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m034",
+      "profile_id": "hy_8f2c9a71_p034",
+      "memory_text": "Safranbolu gezisinde kaldığım odanın tavanındaki ahşap işlemeleri sayıyordum. Sabah rehber aşağıdan seslenene kadar hazırlanmayı unuttum. Bütün grup beni kapıda, başları yukarıda bekliyordu.",
+      "labels": [
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s034",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m035",
+      "profile_id": "hy_8f2c9a71_p035",
+      "memory_text": "Afyon'da annemin kaymaklı ekmek kadayıfını misafirlere ben sunardım. Bir gün kaymağı erkenden koydum, eriyiverdi. Annem yeni tabak hazırlamak yerine kaşıkları getirdi; herkes afiyetle yedi.",
+      "labels": [
+        "FAMILY",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s035",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m036",
+      "profile_id": "hy_8f2c9a71_p036",
+      "memory_text": "İstanbul'da yağmurlu bir sabah vapur iskelesinde yabancı biri şemsiyesini benimle paylaştı. Konuşmadan yürüdük. Ayrılırken ikimizin de dışta kalan omzunun sırılsıklam olduğunu görüp güldük.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s036",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m037",
+      "profile_id": "hy_8f2c9a71_p037",
+      "memory_text": "Kütahya'da çini atölyesinde çalışırken boyadığım tabağın mavisi fırından beklediğimden koyu çıktı. Ustam tabağı pencereye götürdü. Rengi gün ışığında görünce yeniden boyama isteğim geçti.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s037",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m038",
+      "profile_id": "hy_8f2c9a71_p038",
+      "memory_text": "Ordu'da eşimle akşamları dama oynardık. Taşlardan biri kaybolunca yerine fındık koyduk. Dalgınlıkla onu yiyince oyunu kaybetmiş sayıldım; bu kuralı o gece eşim buldu.",
+      "labels": [
+        "FAMILY",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s038",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m039",
+      "profile_id": "hy_8f2c9a71_p039",
+      "memory_text": "Mardin'e yaptığım gezide dar sokaklarda aynı çeşmenin önüne üç kez çıktım. Sonunda haritayı katladım, çeşmenin yanındaki esnafa danıştım. Aradığım avlu meğer hemen arkamdaymış.",
+      "labels": [
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s039",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m040",
+      "profile_id": "hy_8f2c9a71_p040",
+      "memory_text": "Bolu'daki fırınımda bir sabah ekmeklere şekil veren çırağım hepsini farklı yapmıştı. Tezgâhta uzun, yuvarlak, yamuk ekmekler dizildi. Müşteriler o gün ekmeklerini işaret ederek seçtiler.",
+      "labels": [
+        "CAREER",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s040",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m041",
+      "profile_id": "hy_8f2c9a71_p041",
+      "memory_text": "Uşak'ta ilk kez yürüyen merdivene binecektim. Birkaç basamağı kaçırınca arkamdaki genç benimle aynı anda adım attı. Yukarı vardığımızda sanki birlikte bir iş başarmıştık.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s041",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m042",
+      "profile_id": "hy_8f2c9a71_p042",
+      "memory_text": "Antalya'da torunum bana kasetçalarda kendi sesimi dinletti. Sesimi tanımayıp bu konuşkan adamın kim olduğunu sordum. Cevap vermek yerine kaydı başa sardı; sorum da kaydolmuştu.",
+      "labels": [
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s042",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m043",
+      "profile_id": "hy_8f2c9a71_p043",
+      "memory_text": "Manisa'da belediye bahçıvanıydım. Yeni diktiğimiz çiçeklerin adlarını küçük levhalara yazdım. Ertesi sabah bir çocuk hepsini defterine geçirmeye gelmişti; birlikte bütün tarhları dolaştık.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s043",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m044",
+      "profile_id": "hy_8f2c9a71_p044",
+      "memory_text": "Elazığ'da bağlama öğrenirken aynı ezgiyi haftalarca çaldım. Bir akşam alt komşu kapıya geldi. Şikâyet edecek sandım; meğer sonunu merak etmiş, tamamını dinlemek istiyormuş.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s044",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m045",
+      "profile_id": "hy_8f2c9a71_p045",
+      "memory_text": "Kardeşimle Pamukkale'yi görmeye gittiğimizde ayakkabılarımızı aynı torbaya koyduk. Dönüşte herkes kendi çiftini ararken bizimkiler birbirine karışmıştı. Banka oturup bağcıklarından ayırdık.",
+      "labels": [
+        "FAMILY",
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s045",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m046",
+      "profile_id": "hy_8f2c9a71_p046",
+      "memory_text": "Giresun'da ilk turşumu kurarken kavanozu ağzına kadar doldurdum. Kapağı kapatamadım. Fazla lahanayı çıkarıp akşam yemeğine doğradım; bir hazırlıktan iki yemek çıkması hoşuma gitmişti.",
+      "labels": [
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s046",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m047",
+      "profile_id": "hy_8f2c9a71_p047",
+      "memory_text": "Amasya'da bir kırtasiyeden ilk dolma kalemimi almıştım. Eve varana kadar kutusunu üç kez açtım. Yazacak önemli bir şey bulamayınca bütün sayfaya hava durumunu yazdım.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s047",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m048",
+      "profile_id": "hy_8f2c9a71_p048",
+      "memory_text": "İzmit'te iş için kullandığım daktilo bırakılıp bilgisayara geçildiğinde satır sonunda elim yana gidiyordu. Genç meslektaşım bunu fark etti. Bir süre masanın kenarına küçük bir hatırlatma koyduk.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s048",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m049",
+      "profile_id": "hy_8f2c9a71_p049",
+      "memory_text": "Burdur'daki göl gezisine kuş gözlemek için dürbün götürdüm. Uzun süre uzaktaki beyaz bir şeyi izledim. Rüzgârla havalanınca kuş sandığımın poşet olduğu anlaşıldı; defterdeki notumu sildim.",
+      "labels": [
+        "HOBBY",
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s049",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "hy_8f2c9a71_m050",
+      "profile_id": "hy_8f2c9a71_p050",
+      "memory_text": "Yozgat'ta babam okula başladığım gün boyumu kapı pervazına işaretlemişti. Yıllar sonra evi boyarken o çizgiyi gördüm. Fırçayı indirdim, babamla yanına benim oğlumun boyunu da işaretledik.",
+      "labels": [
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "hy_8f2c9a71_s050",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M101",
+      "profile_id": "P101",
+      "memory_text": "1974 yılında Zonguldak maden ocağında ilk vardiyama indiğimde babamın eski baretini takmıştım; o gün alın teriyle ekmek kazanmanın ne demek olduğunu anladım.",
+      "labels": [
+        "CAREER",
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_101",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M102",
+      "profile_id": "P102",
+      "memory_text": "Anneannem her sonbahar Kastamonu'daki bahçemizden topladığı kızılcıklarla bakır kazanda tarhana kaynatır, kokusu bütün mahalleyi sarardı.",
+      "labels": [
+        "FAMILY",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_102",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M103",
+      "profile_id": "P103",
+      "memory_text": "Gençliğimde Haydarpaşa Garı'ndan kalkan kara trenle ilk kez Erzurum'a giderken camdan karlı dağları izlemek beni büyülemişti.",
+      "labels": [
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_103",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M104",
+      "profile_id": "P104",
+      "memory_text": "Emekli olduktan sonra İzmir Karşıyaka'daki balkonumda ahşap gemi maketleri yapmaya başladım; ince zımpara işi ruhumu dinlendiriyor.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_104",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M105",
+      "profile_id": "P105",
+      "memory_text": "1968 kışında Sivas'ta kar yolları kapatınca mahalledeki komşularla günlerce gaz lambası ışığında gölge oyunu oynayıp vakit geçirmiştik.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_105",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M106",
+      "profile_id": "P106",
+      "memory_text": "Eşimle balayımız için otobüsle Ürgüp'e gitmiş, peri bacalarının arasındaki küçük bir taş handa sabah kahvaltısında sıcak tandır ekmeği yemiştik.",
+      "labels": [
+        "FAMILY",
+        "TRAVEL",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_106",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M107",
+      "profile_id": "P107",
+      "memory_text": "Otuz yıl boyunca Adana'da ilkokul öğretmenliği yaptım; mezun ettiğim öğrencilerin bayramlarda elimi öpmeye gelmesi en büyük gururumdu.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_107",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M108",
+      "profile_id": "P108",
+      "memory_text": "Dedem bana çocukken Bursa'da dut ağaçlarının altında ney üflemeyi öğretmişti; o ince sesi çıkarabildiğim ilk akşamı hiç unutmam.",
+      "labels": [
+        "FAMILY",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_108",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M109",
+      "profile_id": "P109",
+      "memory_text": "Rahmetli abimle her pazar sabahı Karaköy iskelesinde buluşur, vapura binmeden önce taze simit ve kaşar peyniri alırdık.",
+      "labels": [
+        "FAMILY",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_109",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M110",
+      "profile_id": "P110",
+      "memory_text": "1980'lerde Mersin Limanı'nda gümrük memuru olarak çalışırken uzak ülkelerden gelen yük gemilerinin kaptanlarıyla sohbet etmeyi çok severdim.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_110",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M111",
+      "profile_id": "P111",
+      "memory_text": "Teyzem Antakya'daki avlulu evinde bakır sinide künefe çevirirken biz çocuklar peynirin uzamasını heyecanla beklerdik.",
+      "labels": [
+        "FAMILY",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_111",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M112",
+      "profile_id": "P112",
+      "memory_text": "Kırk yaşımda fotoğrafçılığa merak saldım; hafta sonları otobüse atlayıp Safranbolu'ya gider, eski konakların kapı tokmaklarını fotoğraflardım.",
+      "labels": [
+        "HOBBY",
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_112",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M113",
+      "profile_id": "P113",
+      "memory_text": "1969 yılında mahallemizdeki kahvehaneye ilk siyah beyaz televizyon geldiğinde bütün sokak camın önüne toplanıp aya inişi izlemiştik.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_113",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M114",
+      "profile_id": "P114",
+      "memory_text": "Kayseri'deki manifatura dükkanımızda babamla birlikte sabah ezanından sonra kepenk açar, kumaş toplarını özenle dizerdik.",
+      "labels": [
+        "CAREER",
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_114",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M115",
+      "profile_id": "P115",
+      "memory_text": "Çocukluğumda Rize'nin yaylalarına göç ettiğimiz yaz aylarında annem kuzinede mısır ekmeği pişirir, üstüne taze tereyağı sürerdi.",
+      "labels": [
+        "FAMILY",
+        "TRAVEL",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_115",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M116",
+      "profile_id": "P116",
+      "memory_text": "Gençlik yıllarımda Eskişehir'de terzi çırağı olarak işe başladım; ilk diktiğim yeleğin düğmelerini sabaha kadar heyecanla iliklemiştim.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_116",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M117",
+      "profile_id": "P117",
+      "memory_text": "Kızım üniversiteyi kazanıp Ankara'ya gidince ona her ay kolilerle ev yapımı erişte ve cevizli sucuk gönderirdim.",
+      "labels": [
+        "FAMILY",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_117",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M118",
+      "profile_id": "P118",
+      "memory_text": "Uzun yıllar pul koleksiyonu biriktirdim; yurt dışından gelen mektupların üzerindeki renkli pulları buharda dikkatlice söküp defterime yapıştırırdım.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_118",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M119",
+      "profile_id": "P119",
+      "memory_text": "1985 yazında ailece kiraladığımız minibüsle Ege turuna çıkmış, Bodrum'dan Datça'ya kadar bütün koyları gezmiştik.",
+      "labels": [
+        "FAMILY",
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_119",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M120",
+      "profile_id": "P120",
+      "memory_text": "Trabzon'da fırıncılık yaptığım dönemde ramazan geceleri sahura yakın sıcak pidelerin kokusu sokak başından duyulurdu.",
+      "labels": [
+        "CAREER",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_120",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M121",
+      "profile_id": "P121",
+      "memory_text": "Diyarbakır surlarının dibindeki eski ciğercide sabahın erken saatinde közde pişmiş ciğer kebabı ve sumaklı soğan yemeye bayılırdım.",
+      "labels": [
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_121",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M122",
+      "profile_id": "P122",
+      "memory_text": "Büyükbabamın Mardin'deki taş evinin damında yaz geceleri yıldızları seyrederken bize anlattığı masallarla uyuyakalırdık.",
+      "labels": [
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_122",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M123",
+      "profile_id": "P123",
+      "memory_text": "1978 yılında İstanbul'da yaşanan büyük fırtınada Boğaz suları kıyıya taşmış, okuldan eve dönerken rüzgârdan zor yürümüştüm.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_123",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M124",
+      "profile_id": "P124",
+      "memory_text": "Emekli hemşireyim; meslek hayatım boyunca Samsun Devlet Hastanesi'nde gece nöbetlerinde sabaha kadar hastaların başucunda bekledim.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_124",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M125",
+      "profile_id": "P125",
+      "memory_text": "Kış akşamları sobanın üzerinde kestane çizer, kabukları çıtırdayınca eşimle çaylarımızı doldurup radyo tiyatrosu dinlerdik.",
+      "labels": [
+        "FAMILY",
+        "FOOD",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_125",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M126",
+      "profile_id": "P126",
+      "memory_text": "Yirmi beş yıl boyunca Konya'dan İzmir'e şehirlerarası otobüs şoförlüğü yaptım; gece yolculuklarında yolcular uyurken türküler mırıldanırdım.",
+      "labels": [
+        "CAREER",
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_126",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M127",
+      "profile_id": "P127",
+      "memory_text": "Annem Gaziantep'te bayram arifelerinde sabaha kadar yuvalama köftesi yuvarlar, beni de mutfak masasının başına oturtup yardım ettirirdi.",
+      "labels": [
+        "FAMILY",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_127",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M128",
+      "profile_id": "P128",
+      "memory_text": "Gençliğimde Edirne'de Kırkpınar güreşlerini izlemeye gider, davul zurna sesleri eşliğinde pehlivanların kispet giyişini hayranlıkla seyrederdim.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_128",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M129",
+      "profile_id": "P129",
+      "memory_text": "İlk kez uçağa binip Kıbrıs'a gittiğimde bulutların üzerinden Akdeniz'i görmek ellerimi heyecandan terletmişti.",
+      "labels": [
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_129",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M130",
+      "profile_id": "P130",
+      "memory_text": "Oğlumla her yaz sonu Çanakkale'nin köylerine gider, bahçelerden topladığımız domateslerle kışlık salça kaynatırdık.",
+      "labels": [
+        "FAMILY",
+        "TRAVEL",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_130",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M131",
+      "profile_id": "P131",
+      "memory_text": "1960'larda Ankara Ulus'taki bir matbaada dizgici olarak çalışırken kurşun harfleri tek tek kasaya yerleştirmek büyük ustalık isterdi.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_131",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M132",
+      "profile_id": "P132",
+      "memory_text": "Mahallemizdeki su kesintilerinde elimizde plastik bidonlarla çeşme başında sıraya girer, komşularla laflayarak sıramızı beklerdik.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_132",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M133",
+      "profile_id": "P133",
+      "memory_text": "Bahçemdeki gülleri budamak ve her sabah yapraklarına su püskürtmek elli yıldır en sevdiğim sabah alışkanlığımdır.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_133",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M134",
+      "profile_id": "P134",
+      "memory_text": "Kardeşimle çocukken Amasya'da Yeşilırmak kıyısında yürür, köprü başındaki seyyar satıcıdan elma şekeri alırdık.",
+      "labels": [
+        "FAMILY",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_134",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M135",
+      "profile_id": "P135",
+      "memory_text": "1992 yılında emekli ikramiyemle eşimi alıp Karadeniz turuna çıktım; Uzungöl'ün sisli sabahlarında tahta köprüde yürümüştük.",
+      "labels": [
+        "FAMILY",
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_135",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M136",
+      "profile_id": "P136",
+      "memory_text": "Malatya'daki kayısı bahçelerimizde hasat zamanı bütün akrabalar toplanır, güneşin altında sergilerde kayısı kuruturduk.",
+      "labels": [
+        "FAMILY",
+        "CAREER",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_136",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M137",
+      "profile_id": "P137",
+      "memory_text": "Gençliğimde akşamları evde kanaviçe işler, çeyiz sandığım için rengârenk çiçek desenli masa örtüleri hazırlardım.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_137",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M138",
+      "profile_id": "P138",
+      "memory_text": "Bursa Kapalıçarşı'da saat tamirciliği yaptığım dükkânda eski kurmalı duvar saatlerinin tik tak sesleri arasında yaşlandım.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_138",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M139",
+      "profile_id": "P139",
+      "memory_text": "Torunum doğduğu gün hastane koridorunda sevincimden ağlamış, kucağıma aldığımda minik parmağını avucuma sıkıca sarmasını hiç unutmamıştım.",
+      "labels": [
+        "FAMILY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_139",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M140",
+      "profile_id": "P140",
+      "memory_text": "Van Gölü kıyısında sabah kahvaltısında otlu peynir, kavut ve taze tandır çöreği yediğim o tatili hâlâ özlerim.",
+      "labels": [
+        "TRAVEL",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_140",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M141",
+      "profile_id": "P141",
+      "memory_text": "1970'lerde Sinop'ta ahşap tekne yapım atölyesinde çıraklık yaptım; rendeden çıkan çam talaşının kokusu hâlâ burnumdadır.",
+      "labels": [
+        "CAREER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_141",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M142",
+      "profile_id": "P142",
+      "memory_text": "Yazlık sinemaların açık olduğu yıllarda akşam yemeğinden sonra tahta sandalyelerimizi kapıp mahalledeki açık hava sinemasına film izlemeye giderdik.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_142",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M143",
+      "profile_id": "P143",
+      "memory_text": "Halam Afyon'dan her gelişinde bize haşhaşlı çörek ve kaymak getirir, sofrada çayın yanında sıcak sıcak yerdik.",
+      "labels": [
+        "FAMILY",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_143",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M144",
+      "profile_id": "P144",
+      "memory_text": "1983 yılında ilk kez pasaport ve vize alıp trenle Selanik'e gitmiş, Atatürk'ün doğduğu evi görünce gözlerim dolmuştu.",
+      "labels": [
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_144",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M145",
+      "profile_id": "P145",
+      "memory_text": "Eski radyomuz bozulduğunda babamla masanın üzerine gazete serer, tornavidayla içindeki lambaları tek tek kontrol ederdik.",
+      "labels": [
+        "FAMILY",
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_145",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M146",
+      "profile_id": "P146",
+      "memory_text": "1958 yılında köyümüze ilk kez elektrik bağlandığı akşam bütün evlerin ampulleri aynı anda yanınca çocuklar sevinçle sokaklara dökülmüştü.",
+      "labels": [
+        "OTHER"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_146",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M147",
+      "profile_id": "P147",
+      "memory_text": "Kırk yıl Muğla'da arıcılık yaptım; ilkbaharda kovanları çam ormanlarına taşır, sonbaharda peteklerden süzülen balı tenekelere doldururdum.",
+      "labels": [
+        "CAREER",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_147",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M148",
+      "profile_id": "P148",
+      "memory_text": "Denizli Pamukkale'ye yaptığımız okul gezisinde travertenlerin beyaz sularında çıplak ayakla yürümüş, dönüşte otobüste hep bir ağızdan şarkılar söylemiştik.",
+      "labels": [
+        "TRAVEL"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_148",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M149",
+      "profile_id": "P149",
+      "memory_text": "Kayınvalidem bana düğünümden sonra bakır tencerede zeytinyağlı yaprak sarması yapmanın inceliklerini sabırla öğretmişti.",
+      "labels": [
+        "FAMILY",
+        "FOOD"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_149",
+      "is_synthetic": true
+    },
+    {
+      "memory_id": "M150",
+      "profile_id": "P150",
+      "memory_text": "Emeklilik günlerimde Kadıköy sahilindeki bankta oturup martılara simit atmak ve bulmaca çözmek bana büyük huzur verirdi.",
+      "labels": [
+        "HOBBY"
+      ],
+      "approval_status": "approved",
+      "sensitive": false,
+      "source_id": "synthetic_150",
+      "is_synthetic": true
+    }
+  ]
+}
